@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is the repository for my personal website. 
 
 <!--
 **brodyregan/brodyregan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
